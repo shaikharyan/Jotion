@@ -1,4 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Jotion1](https://github.com/shaikharyan/Jotion/assets/103252725/d3d50e95-c864-4fe3-9cf7-a08d8f00460c)
+![Jotion2](https://github.com/shaikharyan/Jotion/assets/103252725/6d702355-756c-4c2c-8d90-92ae64bf93ea)
+
+
+https://github.com/shaikharyan/Jotion/assets/103252725/833bf1d3-418f-43d3-bef4-0bcab4cdcb80
+
 
 ## Getting Started
 
